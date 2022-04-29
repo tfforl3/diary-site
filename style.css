@@ -1,0 +1,54 @@
+body {
+   padding: 0 40px;
+   font-size: 16px;
+   line-height: 26px;
+   font-family: Arial, sans-serif;
+   color: #222222;
+   background: #ffffff url("files/cool-background.png");
+}
+
+h1 {
+   font-weight: 700;
+   line-height: normal;
+}
+
+li {
+   list-style-type: none;
+}
+
+footer {
+   margin-top: 30px;
+   padding-top: 10px;
+   color: #aaaaaa;
+   border-top: 1px solid #aaaaaa;
+}
+
+td {
+   padding: 15px;
+}
+
+.sheet-header {
+   padding-bottom: 10px;
+   font-weight: 700;
+   font-size: 20px;
+}
+
+.sheet-description {
+   padding-top: 10px;
+   font-style: italic;
+}
+
+.footer-email {
+   padding-left: 25px;
+   background-image: url("img/icon-email-footer.svg");
+}
+
+.footer-phone {
+   padding-left: 25px;
+   background-image: url("img/icon-phone-footer.svg");
+}
+
+.footer-telegram {
+   padding-left: 25px;
+   background-image: url("img/icon-telegram-app.svg")
+}
